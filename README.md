@@ -1,6 +1,6 @@
 #### THE ROAD TO ISTANBUL
 
-# Graduation tour
+# Transcontinental Race #10 
 
 The list of things to bring along for the TCR
 
@@ -52,10 +52,12 @@ The list of things to bring along for the TCR
 
 ### Mounted
 
-- **Front light**
-- **Rear light**
-- **Wahoo Bolt**
+- **Front light** 2x
+- **Rear light** 2x
+- **Wahoo Bolt** 2x
 - **Water Bottles** 2x
+- **Combo battery/light**
+- **Profile design aerobars**
 
 ### Tools
 
@@ -71,7 +73,7 @@ The list of things to bring along for the TCR
 - **Patch kit**
 - **Inner tube**
 - **Brake pads**
-- **Sealant tube**
+- **Sealant tube** 2x
 - **Electrical tape**
 - **Derailleur Hanger**
 - **Quick link** 4x
