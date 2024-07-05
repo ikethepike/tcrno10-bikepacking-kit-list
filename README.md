@@ -4,41 +4,47 @@
 
 The list of things to bring along for the TCR
 
+## Packing 
+- **Tailfin Aeropack**
+- **Tailfin Framebag**
+- **Tailfin Top tube bag**
+- **4x Ultra Sil bags**
+- **4x Tailfin straps**
+- **4x Sea2summit Nanosil** 
+- **Apidura Musette**
+
+## Liquid 
+- Albion Vest 2L
+- Elite Fly 750Ml
+- Elite Fly 500Ml
+---
+3.250ML 
+
 ## Clothes
-
-### On the bike
-
-- **Helmet**
-- **Socks** 3x
-- **Buff** 1x
-- **Baselayer** 1x
-- **SPD Shoes**
-- **Rain pants**
-- **Arm warmers**
-- **Leg warmers**
-- **Shoe covers**
-- **Bike glasses**
-- **Bike shorts** 2x 
-- **Bike gloves**
-- **Softshell Rain jacket**
-
-### Off the bike
-
-- **Merino shirt**
-- **Packable pants**
-- **Camp jacket (puff!)**
+- **2X Gobik Grit Shorts**
+- **3X Rapha Jerseys**
+- **3x Rapha Socks**
+- **Grip Grab Arm warmers**
+- **Grip Grab Leg warmers**
+- **Merino baselayer**
+- **Silk undies**
+- **Photochromic glasses**
+- **PTNS Buff**
+- **Sigr Rain pants**
+- **Grip Grab Shoe covers**
+- **POC Ventral** 
 
 ## Medicine + Toiletries
-
-- **Bandaids**
-- **Bar shampoo**
+- **Painkillers**
+  - Ibuprofen
+  - Paracetamol
+  - Aspirin
+- **Tribiotic**
+- **Wound Cleaner**
 - **Toothbrush**
 - **Toothpaste**
-- **Painkillers**
-- **Hand sanitizer**
-- **Antibiotic salve**
 - **Lip balm w SPF**
-- **Matte! Sunscreen**
+- **Pelotan Sunscreen**
 - **First Aid**
   - Scissors
   - Gauze
@@ -46,67 +52,67 @@ The list of things to bring along for the TCR
   - Bandage
   - Antiseptic wipes
   - Tweezers
-- **Toilet paper**
+- **Wipes**
+- **Sea to summit Shampoo concentrate**
+- **Indigestion pills**
+- **Iodine**
+
 
 ## Equipment
 
-### Mounted
+### Electronics
 
-- **Front light** 2x
-- **Rear light** 2x
-- **Wahoo Bolt** 2x
-- **Water Bottles** 2x
-- **Combo battery/light**
-- **Profile design aerobars**
+- **2x Wahoo Bolt V2** 
+- **2x Bryton Gardia Radar Backlight** 
+- **2x Newboler front lights**
+- **2x C2C USB Cables**
+- **2x A2C Usb Cables**
+- **2x Phones**
+- **USB-C Backlight**
+- **Shimano Di2 Charge Cable**
 
 ### Tools
 
-- **Multi-tool**
-- **Mini pump**
-- **Tire levers** 2x
-- **Plug Kit**
-- **Spoke tool** 
-
+- **Cube Race Ready Multi-tool**
+- **Birzman Apogee Pump**
+- **2X Decathlon Tire levers**
+- **Dynaplug Megapill**
+- **Tubeless patches**
+- **Chain wipes**
+- **Spoke Tool**
+- **Swiss Army Knife**
+- **Titanium Battle Spork**
+- **Titanium Shovel**
+  
 ### Spares
 
-- **Chain**
-- **Patch kit**
-- **Inner tube**
-- **Brake pads**
-- **Sealant tube** 2x
-- **Electrical tape**
 - **Derailleur Hanger**
-- **Quick link** 4x
-- **Chain lube**
-- **Misc bolts** 
+- **Silca Synergetic Lube**
+- **3x Spare quick links**
+- **2x Stan's Sealant Mini Bottles**
+- **2x TPU inner tube**
+- **4x M5 Bolts**
+- **4x Zipties**
 - **Mini-grease**
-- **Spokes**
 
-### Utensils
-
-- **Spork**
-- **Knife/Swiss army knife**
-- **The Deuce**
+### Sleeping 
+- **Aegismax Sleeping Bag**
+- **Alpkit Bivvy**
+- **Mosquito Net**
+- **Mini Towel**
   
-### Miscellaneous
+### Documnets
 
-- **Passport**
+- **Passports**
 - **EU Health card**
-- **Battery pack**
-- **Charging cables, one per device**
-- **Fast charger**
-- **Portable towel**
-- **Headlamp**
-- **Zipties** 
+- **Vaccine Passport**
 
 ### Packing
 
 - **Frame bag**
 - **Aeropack**
 - **Toptube bag**
-- **Bike straps** (4x)
-- **Sea2summit Nanosil** (4x)
-- **Apidura Musette**
+
 
 ### Camping
 
