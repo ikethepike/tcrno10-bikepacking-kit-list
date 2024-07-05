@@ -102,21 +102,9 @@ The list of things to bring along for the TCR
 - **Mosquito Net**
 - **Mini Towel**
   
-### Documnets
+### Documents
 
 - **Passports**
 - **EU Health card**
 - **Vaccine Passport**
 
-### Packing
-
-- **Frame bag**
-- **Aeropack**
-- **Toptube bag**
-
-
-### Camping
-
-- **Sleeping bag**
-- **Sleeping mat**
-- **Bivvy**
