@@ -71,6 +71,7 @@ The list of things to bring along for the TCR
 - **USB-C Backlight**
 - **Shimano Di2 Charge Cable**
 - **Dynamo Cabling+Capacitor**
+- **Powerbank**
 
 ### Tools
 
