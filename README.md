@@ -56,7 +56,7 @@ The list of things to bring along for the TCR
 - **Sea to summit Shampoo concentrate**
 - **Indigestion pills**
 - **Iodine**
-
+- **Katadyne Water Filter**
 
 ## Equipment
 
