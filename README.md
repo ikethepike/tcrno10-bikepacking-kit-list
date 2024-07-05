@@ -45,6 +45,7 @@ The list of things to bring along for the TCR
 - **Toothpaste**
 - **Lip balm w SPF**
 - **Pelotan Sunscreen**
+- **Chamois Cream**
 - **First Aid**
   - Scissors
   - Gauze
