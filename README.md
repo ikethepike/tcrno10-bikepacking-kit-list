@@ -8,6 +8,7 @@ The list of things to bring along for the TCR
 - **Tailfin Aeropack**
 - **Tailfin Framebag**
 - **Tailfin Top tube bag**
+- **Tailfin Cube Bags**
 - **4x Ultra Sil bags**
 - **4x Tailfin straps**
 - **4x Sea2summit Nanosil** 
