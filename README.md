@@ -23,7 +23,7 @@ The list of things to bring along for the TCR
 
 ## Clothes
 - **2X Gobik Grit Shorts**
-- **3X Rapha Jerseys**
+- **2X Rapha Jerseys**
 - **3x Rapha Socks**
 - **Grip Grab Arm warmers**
 - **Grip Grab Leg warmers**
