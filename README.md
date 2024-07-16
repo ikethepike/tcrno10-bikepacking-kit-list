@@ -11,7 +11,7 @@ The list of things to bring along for the TCR
 - **Tailfin Cube Bags**
 - **4x Ultra Sil bags**
 - **4x Tailfin straps**
-- **4x Sea2summit Nanosil** 
+- **6x Sea2summit Ultra-Sil compression sacks** 
 - **Apidura Musette**
 
 ## Liquid 
