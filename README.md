@@ -31,8 +31,6 @@ The list of things to bring along for the TCR
 - **Silk undies**
 - **Photochromic glasses**
 - **PTNS Buff**
-- **Sigr Rain pants**
-- **Grip Grab Shoe covers**
 - **POC Ventral** 
 
 ## Medicine + Toiletries
@@ -55,8 +53,6 @@ The list of things to bring along for the TCR
   - Tweezers
 - **Wipes**
 - **Sea to summit Shampoo concentrate**
-- **Indigestion pills**
-- **Iodine**
 - **Katadyne Water Filter**
 
 ## Equipment
@@ -72,6 +68,7 @@ The list of things to bring along for the TCR
 - **USB-C Backlight**
 - **Shimano Di2 Charge Cable**
 - **Dynamo Cabling+Capacitor**
+- **Lightning cable**
 
 ### Tools
 
@@ -82,7 +79,6 @@ The list of things to bring along for the TCR
 - **Tubeless patches**
 - **Chain wipes**
 - **Spoke Tool**
-- **Swiss Army Knife**
 - **Titanium Battle Spork**
 - **Titanium Shovel**
   
@@ -90,12 +86,10 @@ The list of things to bring along for the TCR
 
 - **Derailleur Hanger**
 - **Silca Synergetic Lube**
-- **3x Spare quick links**
+- **2x Spare quick links**
 - **2x Stan's Sealant Mini Bottles**
 - **2x TPU inner tube**
-- **4x M5 Bolts**
-- **4x Zipties**
-- **Mini-grease**
+- **2x Zipties**
 
 ### Sleeping 
 - **Aegismax Sleeping Bag**
