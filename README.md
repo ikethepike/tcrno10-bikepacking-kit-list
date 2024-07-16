@@ -101,7 +101,7 @@ The list of things to bring along for the TCR
 - **Aegismax Sleeping Bag**
 - **Alpkit Bivvy**
 - **Mosquito Net**
-- **Mini Towel**
+- **Klymit Sleeping Mat V2 Long**
   
 ### Documents
 
