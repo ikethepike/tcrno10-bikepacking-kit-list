@@ -79,7 +79,6 @@ The list of things to bring along for the TCR
 - **Dynaplug Megapill**
 - **Tubeless patches**
 - **Chain wipes**
-- **Spoke Tool**
 - **Titanium Battle Spork**
 - **Titanium Shovel**
   
