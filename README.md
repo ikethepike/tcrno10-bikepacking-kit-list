@@ -60,7 +60,8 @@ The list of things to bring along for the TCR
 ### Electronics
 
 - **2x Wahoo Bolt V2** 
-- **2x Bryton Gardia Radar Backlight** 
+- **3x Bryton Gardia Radar Backlight**
+- **1x Rockbros Wahoo Charger**
 - **2x Newboler front lights**
 - **2x C2C USB Cables**
 - **2x A2C Usb Cables**
