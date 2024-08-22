@@ -102,4 +102,4 @@ The list of things to bring along for the TCR
 - **Passports**
 - **EU Health card**
 - **Vaccine Passport**
-
+- **Cash in local currencies + Card**
